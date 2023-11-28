@@ -1,2 +1,2 @@
-import seaborn as sns 
-import matplotlib.pyplot as plt
+import seaborn as s
+import matplotlib.pyplot as p
